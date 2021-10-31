@@ -54,14 +54,14 @@
     }],
     "https://blackboard.com": [{
         "default": true,
-        "client_id": "client-id",
+        "client_id": "f2f67b7b-28b3-484d-b01e-40c7b472877e",
         "auth_login_url": "https://developer.blackboard.com/api/v1/gateway/oidcauth",
         "auth_token_url": "https://developer.blackboard.com/api/v1/gateway/oauth2/jwttoken",
-        "key_set_url": "https://developer.blackboard.com/api/v1/management/applications/<your client id>/jwks.json",
+        "key_set_url": "https://developer.blackboard.com/api/v1/management/applications/f2f67b7b-28b3-484d-b01e-40c7b472877e/jwks.json",
         "key_set": null,
         "private_key_file": "private.key",
         "public_key_file": "public.key",
-        "deployment_ids": ["deployment-id"]
+        "deployment_ids": ["f07d9f79-f4b1-468c-804f-b767ac0153d4","e51c839c-f7f8-4ecf-99e6-444b3191631c"]
     }],
     "https://partners.brightspace.com": [{
         "default": true,
